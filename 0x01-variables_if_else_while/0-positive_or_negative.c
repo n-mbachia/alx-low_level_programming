@@ -2,12 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/**
- * main - program assigns random number each time when executed 
- *
- * Return: Always 0.
- */
-
+/* main - program assigns random number each time when executed */
 int main(void)
 {	
 int n;
@@ -17,7 +12,7 @@ n = rand() - RAND_MAX / 2;
 
 if  (n > 0)
 printf("%d is positive\n", n);
-else if (n  < 0)
+else if (n < 0)
 printf("%d is negative\n", n);
 else 
 
