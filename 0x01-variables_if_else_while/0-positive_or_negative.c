@@ -2,7 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 
-/* main - program assigns random number each time when executed */
+/* 
+ * main - program assigns random number each time when executed 
+ *  	positive negative zero
+ * 
+ * Return: Always 0.
+ */ 
 int main(void)
 {	
 int n;
