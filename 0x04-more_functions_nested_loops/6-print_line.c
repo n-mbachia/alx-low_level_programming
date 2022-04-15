@@ -2,8 +2,8 @@
 
 /**
  * print_line - print a line character
- * n:line length
- * Return: Always 0.
+ * @n: length of line input
+ * Return: nothing
  */
 
 void print_line(int n)
