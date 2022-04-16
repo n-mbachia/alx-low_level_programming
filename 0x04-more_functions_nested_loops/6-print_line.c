@@ -1,13 +1,14 @@
 #include "main.h"
 
 /**
- * print_line - print a line character
- * @n: length of line input
- * Return: Always 0. 
+ * print_line - check the code for Holberton School students.
+ * @n: Number of lines wanted
+ * Return: Always 0.
  */
 
+
 void print_line(int n)
-{ 
+{
 	int i;
 
 	if (n <= 0)
