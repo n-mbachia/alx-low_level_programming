@@ -13,11 +13,11 @@ int _atoi(char *s)
 	int sig = -1;
 	int brk = 0;
 
-	for (i = 0; s[i] !='\0'; i++)
+	for (i = 0; s[i] != '\0'; i++)
 	{
 		if (s[i] == '-')
-			sig = sig *-1;
-		if (s[i]>= '0' && s[i]<= '9')
+			sig = sig * -1;
+		if (s[i] >= '0' && s[i] <= '9')
 		{
 			res = res * 10;
 			res -= (s[i] - '0');
