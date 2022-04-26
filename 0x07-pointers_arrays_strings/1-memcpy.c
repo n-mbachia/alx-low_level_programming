@@ -14,8 +14,8 @@ char *_memcpy(char *dest, char *src, unsigned int n)
 
 	while (i < n)
 	{
-		*(dest + i) = *(src + i); // value of address dest = to value of address source both incrimented  
-		i++; // increment of loop
+		*(dest + i) = *(src + i);  
+		i++;
 	}
 	return (dest);
 }
