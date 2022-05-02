@@ -1,56 +1,29 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <ctype.h>
+
 /**
  * main - adds positive numbers.
- * @s; string
- *
- * Return: 1 - success.
- * if not a number, 0 is returned.
+ * @argc: number of command line arguments.
+ * @argv: array that contains the program command line arguments.
+ * Return: 0 - success.
  */
-int _isnumber(char *s)
+int main(int argc, char *argv[])
 {
-	int i, check, d;
+	int i, j, add = 0;
 
-	i = 0, d = 0, check = 1;
-	if (*s == '-')
-		i++;
-	for (; *(s + i) != 0; i++)
+	for (i = 1; i < argc; i++)
 	{
-		d = isdigit(*(s + i));
-		if (d == 0)
+		for (j = 0; argv[i][j] != '\0'; j++)
 		{
-			check = 0;
-			break;
+			if (!isdigit(argv[i][j]))
+			{
+				printf("Error\n");
+				return (1);
+			}
 		}
+		add += atoi(argv[i]);
 	}
-	return (check);
-}
-/**
- * main - Entry point
- *
- * @argc: Counts the number of parameters that go into main
- * @argv: Pointer of array of pointers containing strings entering main
- * Return: Always 0 (Success)
- */
-int main(int argc, char **argv)
-{
-	int i, n, ex;
-
-	ex = 0, n = 0;
-	if (argc > 1)
-	{
-		for (i = 1; i < argc; i++)
-		{
-			if (_isnumber(argv[i]))
-				n += atoi(argv[i]);
-			else
-				ex = 1;
-		}
-	}
-	if (ex == 0)
-		printf("%i\n", n);
-	else
-		printf("%s\n", "Error");
-	return (ex);
+	printf("%d\n", add);
+	return (0);
 }
