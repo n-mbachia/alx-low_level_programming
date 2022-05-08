@@ -33,6 +33,29 @@ int _isNumber(char *argv)
 }
 
 /**
+ *_calloc - allocate array of size * nmemb
+ *@nmemb: number of elements
+ *@size: size of element
+ * Return: pointer to array
+ */
+
+void *_calloc(unsigned int nmemb, unsigned int size)
+{
+	char *tab;
+	unsugned int i;
+
+	tab = malloc(size * nmemb);
+
+	if (tab == NULL)
+		return (NULL);
+
+	for (i = 0; i < (size * nmemb); i+=)
+		tab[i] = '0';
+
+	return (tab);
+}
+
+/**
  * mul_array - multiply two arrays
  * @a1: first array
  * @len1: length of array a1
