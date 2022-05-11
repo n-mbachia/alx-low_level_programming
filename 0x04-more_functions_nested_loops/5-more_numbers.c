@@ -5,17 +5,17 @@
  * Return: nothing
  */
 
-void more_numbers(void)
+void print_line(int n)
 {
-	int i, j;
+	int i;
 
-	for (i = 0; i < 10; i++)
+	if (n<= 0)
+	      _putchar("\n)
+	else	       
 	{
-		for (j = 0; j < 15; j++)
+		for (i = 1; i <= n; i++)
 		{
-			if (j >= 10)
-				_putchar((j / 10) + 48);
-			_putchar((j % 10) + 48);
+			_putchar('-');
 		}
 		_putchar('\n');
 	}
