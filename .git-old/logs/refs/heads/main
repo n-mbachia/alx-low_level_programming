@@ -1,0 +1,98 @@
+0000000000000000000000000000000000000000 364cffd8700b6efca8585db2b4913dea13b3bae2 n-mbachia <ndmbachia@outlook.com> 1650823771 +0000	clone: from https://github.com/n-mbachia/alx-low_level_programming.git
+364cffd8700b6efca8585db2b4913dea13b3bae2 07b652bbeee7d3958d6aeae211e5ec12ebffa3ac n-mbachia <ndmbachia@outlook.com> 1650823910 +0000	commit: my first commit
+07b652bbeee7d3958d6aeae211e5ec12ebffa3ac 8e9e5dd205d79a644b6c63dbef6cf76817701aec n-mbachia <ndmbachia@outlook.com> 1650825202 +0000	commit: concatenates two strings
+8e9e5dd205d79a644b6c63dbef6cf76817701aec 99842c6569c77a09ab064d5a112fafd1de353eb0 n-mbachia <ndmbachia@outlook.com> 1650825257 +0000	commit: concates two strings with n bytes
+99842c6569c77a09ab064d5a112fafd1de353eb0 816ddbd495991f593969dafcf7ab54f4d767e99e n-mbachia <ndmbachia@outlook.com> 1650825301 +0000	commit: copies a string
+816ddbd495991f593969dafcf7ab54f4d767e99e d7efe503fe5a4675c82c8fb1be934f06fab23989 n-mbachia <ndmbachia@outlook.com> 1650825342 +0000	commit: compares two strings
+d7efe503fe5a4675c82c8fb1be934f06fab23989 24a759cc1861cc2166e54482f3f7569cb689d38f n-mbachia <ndmbachia@outlook.com> 1650825384 +0000	commit: reverse array content
+24a759cc1861cc2166e54482f3f7569cb689d38f e533ef02caf09c375338004079ac56cb23e481d8 n-mbachia <ndmbachia@outlook.com> 1650825454 +0000	commit: lowercase to uppercase
+e533ef02caf09c375338004079ac56cb23e481d8 c60ab64a80a412f3b9ab90c126ea3aa21c95061a n-mbachia <ndmbachia@outlook.com> 1650826829 +0000	commit: caps all words in a string
+c60ab64a80a412f3b9ab90c126ea3aa21c95061a 54d27b30dfe0a70a359bf0597e371f87903ef62d n-mbachia <ndmbachia@outlook.com> 1650826859 +0000	commit: encodes string into 1337
+54d27b30dfe0a70a359bf0597e371f87903ef62d 679a0c0af3600892aa6e3fafb8a47cd4b164898f n-mbachia <ndmbachia@outlook.com> 1650826910 +0000	commit: encodes string using rot13
+679a0c0af3600892aa6e3fafb8a47cd4b164898f 7778cb1c13c82080d747ebf24ef87d69ecb0f485 n-mbachia <ndmbachia@outlook.com> 1650826949 +0000	commit: function that prints integer
+7778cb1c13c82080d747ebf24ef87d69ecb0f485 c706f13aa169385d0b05853e20d3155ae1873415 n-mbachia <ndmbachia@outlook.com> 1650827002 +0000	commit: prints a[2] = 98
+c706f13aa169385d0b05853e20d3155ae1873415 b1b58596630b8e1b28097397b5424d876a36a9ac n-mbachia <ndmbachia@outlook.com> 1650827036 +0000	commit: function that adds two numbers
+b1b58596630b8e1b28097397b5424d876a36a9ac 96c22f482e842db1f70825dfca26436e9b80f7b5 n-mbachia <ndmbachia@outlook.com> 1650827063 +0000	commit: prints a buffer
+96c22f482e842db1f70825dfca26436e9b80f7b5 882b4fac1d5139d8453bea70e13b262c5775e8a5 n-mbachia <ndmbachia@outlook.com> 1650988545 +0000	commit: fills memory with a constant byte
+882b4fac1d5139d8453bea70e13b262c5775e8a5 9d55a0421b4638cd5701d9e1c7cc11d34069e2d4 n-mbachia <ndmbachia@outlook.com> 1650990404 +0000	commit: fills memory with a constant byte
+9d55a0421b4638cd5701d9e1c7cc11d34069e2d4 96428e40851ca03a3437ce155b39a51d4f64fee5 n-mbachia <ndmbachia@outlook.com> 1650990930 +0000	commit: copies memory area
+96428e40851ca03a3437ce155b39a51d4f64fee5 20b0b2d56af57a9f6b9ec2a67e1b15f64acca90d n-mbachia <ndmbachia@outlook.com> 1650992370 +0000	commit: copies memory area
+20b0b2d56af57a9f6b9ec2a67e1b15f64acca90d 868028ebd64f20bef07f96b750bb940163a4b678 n-mbachia <ndmbachia@outlook.com> 1650992909 +0000	commit: copies memory area
+868028ebd64f20bef07f96b750bb940163a4b678 74cb0ab11dcfad1f203bb39a31b60d5d6315ea83 n-mbachia <ndmbachia@outlook.com> 1650993248 +0000	commit: locates character in string
+74cb0ab11dcfad1f203bb39a31b60d5d6315ea83 fe227cbe21ba81c272c2e1352d38a960610495cf n-mbachia <ndmbachia@outlook.com> 1650993839 +0000	commit: lenthg of a prefix substring
+fe227cbe21ba81c272c2e1352d38a960610495cf b1dd5631d0706a26eaeb46b84d50a93258721cb9 n-mbachia <ndmbachia@outlook.com> 1650994210 +0000	commit: searches string for any set of bytes
+b1dd5631d0706a26eaeb46b84d50a93258721cb9 a43033fc70a17eb130d08cf35c608241e953768a n-mbachia <ndmbachia@outlook.com> 1650996273 +0000	commit: locates a substring
+a43033fc70a17eb130d08cf35c608241e953768a b41714b586a3a6dc0d6b59e4507a34717901b33b n-mbachia <ndmbachia@outlook.com> 1650996495 +0000	commit: function prints chessboard
+b41714b586a3a6dc0d6b59e4507a34717901b33b acfcc65d51f5a3ae455c7c26530f36698104e260 n-mbachia <ndmbachia@outlook.com> 1650996827 +0000	commit: prints sum of diagonals of a square matrix
+acfcc65d51f5a3ae455c7c26530f36698104e260 ae625e121d3f8641554af6abaeb3fb5abed5df17 n-mbachia <ndmbachia@outlook.com> 1650996909 +0000	commit: prints sum of diagonals of a square matrix
+ae625e121d3f8641554af6abaeb3fb5abed5df17 796386790774d3f5eb57fe16141185bd368aa4bc n-mbachia <ndmbachia@outlook.com> 1650997010 +0000	commit: prints sum of diagonals of a square matrix
+796386790774d3f5eb57fe16141185bd368aa4bc 5711d2ed24baa679134146cb160f0898fae0e87c n-mbachia <ndmbachia@outlook.com> 1650997256 +0000	commit: executable password
+5711d2ed24baa679134146cb160f0898fae0e87c 3a13cfd0d2e8a3a6fec97ae41db798cb5fa12ca5 n-mbachia <ndmbachia@outlook.com> 1650997298 +0000	commit: executable password
+3a13cfd0d2e8a3a6fec97ae41db798cb5fa12ca5 8b1fb32bef6bafcfcb5d761ae04c9007999a3941 n-mbachia <ndmbachia@outlook.com> 1650997792 +0000	commit: executable password
+8b1fb32bef6bafcfcb5d761ae04c9007999a3941 9a8784b3d268aa50e0c41460e8fd2d7970559b20 n-mbachia <ndmbachia@outlook.com> 1650998003 +0000	commit: executable password
+9a8784b3d268aa50e0c41460e8fd2d7970559b20 ca57320e63e20dee37bea9bae5ade9c1c5abb30c n-mbachia <ndmbachia@outlook.com> 1651009862 +0000	commit: executable password
+ca57320e63e20dee37bea9bae5ade9c1c5abb30c a681461c289a1e75d123630d322abe5742c0dba0 n-mbachia <ndmbachia@outlook.com> 1651172105 +0000	commit: first commit
+a681461c289a1e75d123630d322abe5742c0dba0 d2da05b221da8b9a2167ad9c606f33a00cd52206 n-mbachia <ndmbachia@outlook.com> 1651172477 +0000	commit: prints string
+d2da05b221da8b9a2167ad9c606f33a00cd52206 80dc8a016d306833837e670e9f30f0d46aed2075 n-mbachia <ndmbachia@outlook.com> 1651173211 +0000	commit: string length
+80dc8a016d306833837e670e9f30f0d46aed2075 987125c46708f1c535dbeb7f926dd6d814560611 n-mbachia <ndmbachia@outlook.com> 1651173358 +0000	commit: first commit
+987125c46708f1c535dbeb7f926dd6d814560611 5ab6336c94dee02120838ac2460b13134993311a n-mbachia <ndmbachia@outlook.com> 1651173662 +0000	commit: factrial
+5ab6336c94dee02120838ac2460b13134993311a a4a07f76f27d2f8837688d40f86421a2626f65c6 n-mbachia <ndmbachia@outlook.com> 1651173960 +0000	commit: recursion
+a4a07f76f27d2f8837688d40f86421a2626f65c6 0186c92cbcb1deb47558357a07520b77e42fb072 n-mbachia <ndmbachia@outlook.com> 1651174159 +0000	commit: prints string
+0186c92cbcb1deb47558357a07520b77e42fb072 65b4730a132e26e015b4cff69dea4a049f46e67b n-mbachia <ndmbachia@outlook.com> 1651174290 +0000	commit: reverse recursion
+65b4730a132e26e015b4cff69dea4a049f46e67b 2c439f8a00d3a49c5c7fbb3bd53eaad29c3fa83e n-mbachia <ndmbachia@outlook.com> 1651174702 +0000	commit: string length
+2c439f8a00d3a49c5c7fbb3bd53eaad29c3fa83e b6837a225b6447cf62be799c36c67053daec422e n-mbachia <ndmbachia@outlook.com> 1651174827 +0000	commit: string length
+b6837a225b6447cf62be799c36c67053daec422e f3855fc47e51edd127a914fc27f26c53645be86a n-mbachia <ndmbachia@outlook.com> 1651174992 +0000	commit: factrial
+f3855fc47e51edd127a914fc27f26c53645be86a a794970a0b70ce373e6844f222f4787971c19962 n-mbachia <ndmbachia@outlook.com> 1651175211 +0000	commit: factrial
+a794970a0b70ce373e6844f222f4787971c19962 e534637519368585bc4817fd28ef21c258308c3b n-mbachia <ndmbachia@outlook.com> 1651176836 +0000	commit: factrial
+e534637519368585bc4817fd28ef21c258308c3b 0db51370d19b1085f5bf6e06fe2e03d958bc5a28 n-mbachia <ndmbachia@outlook.com> 1651176996 +0000	commit: factrial
+0db51370d19b1085f5bf6e06fe2e03d958bc5a28 fa1bc32a4821f996c5fcc21690838208c26c1379 n-mbachia <ndmbachia@outlook.com> 1651177096 +0000	commit: factrial
+fa1bc32a4821f996c5fcc21690838208c26c1379 2e1800d2893f949979aae006c653cea20a22ea5b n-mbachia <ndmbachia@outlook.com> 1651177191 +0000	commit: factrial
+2e1800d2893f949979aae006c653cea20a22ea5b 44a6b7debe3516f927066fbdf5b5deb9bacd85fe n-mbachia <ndmbachia@outlook.com> 1651177554 +0000	commit: factorial
+44a6b7debe3516f927066fbdf5b5deb9bacd85fe 2df957feb2a7ccd946b4a5f301ad1c9458e1a797 n-mbachia <ndmbachia@outlook.com> 1651177624 +0000	commit: factorial
+2df957feb2a7ccd946b4a5f301ad1c9458e1a797 56b5b60910126c9b66f1834787c6fdc816316b88 n-mbachia <ndmbachia@outlook.com> 1651177816 +0000	commit: power of
+56b5b60910126c9b66f1834787c6fdc816316b88 48bc87ab1d98066e5c771eef670ec3cf0b474fde n-mbachia <ndmbachia@outlook.com> 1651177866 +0000	commit: squareroot of
+48bc87ab1d98066e5c771eef670ec3cf0b474fde 4eec5524df28191679ce52141788adec2e543c76 n-mbachia <ndmbachia@outlook.com> 1651177945 +0000	commit: prime number
+4eec5524df28191679ce52141788adec2e543c76 38575e1f55c3e8ae8edb432b21d7efa43eefed53 n-mbachia <ndmbachia@outlook.com> 1651178011 +0000	commit: palindrome
+38575e1f55c3e8ae8edb432b21d7efa43eefed53 3670f04aa12c6ccf8d6debd8417f0a75c3bee8a2 n-mbachia <ndmbachia@outlook.com> 1651178081 +0000	commit: compare two strings
+3670f04aa12c6ccf8d6debd8417f0a75c3bee8a2 c2138031ebc66d596d86ffbb5103bbd13e662334 n-mbachia <ndmbachia@outlook.com> 1651178425 +0000	commit: prime number
+c2138031ebc66d596d86ffbb5103bbd13e662334 5bc41b8b51a9a9929db514755048fd031fd3b09f n-mbachia <ndmbachia@outlook.com> 1651178588 +0000	commit: reverse string
+5bc41b8b51a9a9929db514755048fd031fd3b09f 5ad621a028f732e305555ef8b5c9e7e3faf78639 n-mbachia <ndmbachia@outlook.com> 1651178743 +0000	commit: compare two strings
+5ad621a028f732e305555ef8b5c9e7e3faf78639 33818a792288a30d9339347a121e634aec570b1a n-mbachia <ndmbachia@outlook.com> 1651178917 +0000	commit: factorial
+33818a792288a30d9339347a121e634aec570b1a 9c67294466fc76eb0eddfc2d7b4d3e3a99071417 n-mbachia <ndmbachia@outlook.com> 1651519460 +0000	commit: prints name and new line
+9c67294466fc76eb0eddfc2d7b4d3e3a99071417 1ba91fc1cc3e18fa66d3dab9fafc7a13e323d5ba n-mbachia <ndmbachia@outlook.com> 1651520335 +0000	commit: prints name and new line
+1ba91fc1cc3e18fa66d3dab9fafc7a13e323d5ba cce2f68ac028138e7adce38f07422e6c7f15bffe n-mbachia <ndmbachia@outlook.com> 1651520973 +0000	commit: prints name and new line
+cce2f68ac028138e7adce38f07422e6c7f15bffe 18419786e4d783e904d47985695c32d725177973 n-mbachia <ndmbachia@outlook.com> 1651521136 +0000	commit: prints name and new line
+18419786e4d783e904d47985695c32d725177973 e8b71bc6fe94c67c61edbd9fb9607b97965c382a n-mbachia <ndmbachia@outlook.com> 1651521256 +0000	commit: prints name and new line
+e8b71bc6fe94c67c61edbd9fb9607b97965c382a 77c26b62d5c1e76084d1602ed9d3af0bcf40804d n-mbachia <ndmbachia@outlook.com> 1651521636 +0000	commit: prints all arguments received
+77c26b62d5c1e76084d1602ed9d3af0bcf40804d 4baace4b6ef9f7557c09d9de3cc15efe120fb5d9 n-mbachia <ndmbachia@outlook.com> 1651522062 +0000	commit: prints all arguments received
+4baace4b6ef9f7557c09d9de3cc15efe120fb5d9 b0f04a303cb606d2e2843e919eca2557a73ae071 n-mbachia <ndmbachia@outlook.com> 1651522674 +0000	commit: adds postive number
+b0f04a303cb606d2e2843e919eca2557a73ae071 e90b898d2f4a2174a2b0e131ac052c5df430ea93 n-mbachia <ndmbachia@outlook.com> 1651524116 +0000	commit: adds postive number
+e90b898d2f4a2174a2b0e131ac052c5df430ea93 2830d6f2647edffb7f19a1b2823f17cbd14e9659 n-mbachia <ndmbachia@outlook.com> 1651524249 +0000	commit: minimum number of change coin
+2830d6f2647edffb7f19a1b2823f17cbd14e9659 1100a9e9dae96c77e388124456a338e4392e134e n-mbachia <ndmbachia@outlook.com> 1651524790 +0000	commit: multiplication of two numbers
+1100a9e9dae96c77e388124456a338e4392e134e 1573e8c9193c5d4b20c57234a8ee7e4e9848fea4 n-mbachia <ndmbachia@outlook.com> 1651524955 +0000	commit: prints all eceived arguments
+1573e8c9193c5d4b20c57234a8ee7e4e9848fea4 c68398813022da1031f74c1a9882cce03a7a7e16 n-mbachia <ndmbachia@outlook.com> 1651525138 +0000	commit: prints number of arguments passed on to it
+c68398813022da1031f74c1a9882cce03a7a7e16 3e59109401f70f87fe243e94cd11856cf1378f48 n-mbachia <ndmbachia@outlook.com> 1651525372 +0000	commit: prints all received arguments
+3e59109401f70f87fe243e94cd11856cf1378f48 ceabace5eabea8e1ddbf095ba8924d0ebcfc28ca n-mbachia <ndmbachia@outlook.com> 1651526060 +0000	commit: header commit
+ceabace5eabea8e1ddbf095ba8924d0ebcfc28ca 6ed323311bbdf462fbd14a6db99c3bfc126fad5a n-mbachia <ndmbachia@outlook.com> 1651526229 +0000	commit: my library
+6ed323311bbdf462fbd14a6db99c3bfc126fad5a 643a53bc49027c4efb660c013ff58242e135cf7e n-mbachia <ndmbachia@outlook.com> 1651526447 +0000	commit: creates a static library from all files in directory
+643a53bc49027c4efb660c013ff58242e135cf7e bfe80b6c6a8a11e47a3e725e61d7c1aa12fb3485 n-mbachia <ndmbachia@outlook.com> 1651531412 +0000	commit: isupper
+bfe80b6c6a8a11e47a3e725e61d7c1aa12fb3485 60cfda7615a39a94a6e0f44d895c00c24bd72577 n-mbachia <ndmbachia@outlook.com> 1651531422 +0000	commit: memset copied
+60cfda7615a39a94a6e0f44d895c00c24bd72577 c6384fa9abddb5fd53ed5f49e188c41dff08d92f n-mbachia <ndmbachia@outlook.com> 1651531440 +0000	commit: strcat copied
+c6384fa9abddb5fd53ed5f49e188c41dff08d92f 27b7fb0060dd46730f4955d1237f807118167c01 n-mbachia <ndmbachia@outlook.com> 1651531452 +0000	commit: isdigit copied
+27b7fb0060dd46730f4955d1237f807118167c01 67fa93b5bf130b9bd588bcbb22d29a75e912f10d n-mbachia <ndmbachia@outlook.com> 1651531469 +0000	commit: memcpy copied
+67fa93b5bf130b9bd588bcbb22d29a75e912f10d 459a131a302a53305e7245066424c86b996ced33 n-mbachia <ndmbachia@outlook.com> 1651531486 +0000	commit: strncat copied
+459a131a302a53305e7245066424c86b996ced33 111d1f4cd921967892f9babc7409b073e6b57ed4 n-mbachia <ndmbachia@outlook.com> 1651531499 +0000	commit: atoi copied
+111d1f4cd921967892f9babc7409b073e6b57ed4 3149bf5e9ec73d31cd7923eb35b08fdf90de59dd n-mbachia <ndmbachia@outlook.com> 1651531510 +0000	commit: strchr copied
+3149bf5e9ec73d31cd7923eb35b08fdf90de59dd fa34a1dc2e6ba4e52f74668951ccd79d2f91d811 n-mbachia <ndmbachia@outlook.com> 1651531528 +0000	commit: strlen copied
+fa34a1dc2e6ba4e52f74668951ccd79d2f91d811 393358a7df65325721eeadf5ca89c92d750daef9 n-mbachia <ndmbachia@outlook.com> 1651531546 +0000	commit: strcpy2 copied
+393358a7df65325721eeadf5ca89c92d750daef9 1a161cbce33d36d9f92db4fc9489d7292e0242cc n-mbachia <ndmbachia@outlook.com> 1651531555 +0000	commit: putchar copied
+1a161cbce33d36d9f92db4fc9489d7292e0242cc d0d7295063c584b61df339de7f75fd0e4466a456 n-mbachia <ndmbachia@outlook.com> 1651532916 +0000	commit (merge): --all
+d0d7295063c584b61df339de7f75fd0e4466a456 c60b5afb59d84101b11b4d8d0c79269958094743 n-mbachia <ndmbachia@outlook.com> 1652217835 +0000	pull: Fast-forward
+c60b5afb59d84101b11b4d8d0c79269958094743 25c715801382f36c70d1c6f10816749a098f1d92 n-mbachia <ndmbachia@outlook.com> 1652218042 +0000	commit: define struct dog
+25c715801382f36c70d1c6f10816749a098f1d92 228901701865b9158594a2fba1f9d47f6be6bbec n-mbachia <ndmbachia@outlook.com> 1652218258 +0000	commit: initializes variable struc dog
+228901701865b9158594a2fba1f9d47f6be6bbec f552435ff866e867cf5f235234423c45aa755959 n-mbachia <ndmbachia@outlook.com> 1652218380 +0000	commit: initializes variable struc dog
+f552435ff866e867cf5f235234423c45aa755959 b1a31c18f60f2bf0fa3992b1149dd046e01434f0 n-mbachia <ndmbachia@outlook.com> 1652218597 +0000	commit: initializes variable struc dog
+b1a31c18f60f2bf0fa3992b1149dd046e01434f0 1d68e52ec625eeacd4ba84196c967246fc96d297 n-mbachia <ndmbachia@outlook.com> 1652218682 +0000	commit: initializes variable struc dog
+1d68e52ec625eeacd4ba84196c967246fc96d297 20dfd86563e7b7bb813f9c8cf3ab0253059e2e87 n-mbachia <ndmbachia@outlook.com> 1652218743 +0000	commit: prints struc dog
+20dfd86563e7b7bb813f9c8cf3ab0253059e2e87 9987afe8dcdeaf97ff0fc4b0e808bfd9bf26ecab n-mbachia <ndmbachia@outlook.com> 1652218797 +0000	commit: function creates new dog
+9987afe8dcdeaf97ff0fc4b0e808bfd9bf26ecab a297000f6f33cda061e60fde9877d01fadb48461 n-mbachia <ndmbachia@outlook.com> 1652218821 +0000	commit: function that frees dog
