@@ -13,10 +13,8 @@ int _strlen(const char *s)
 
 	i = 0;
 	while (s[i] != '\0') /* Count character of a string*/
-	{
 		i++;
-	}
-
+	
 	return (i);
 }
 
@@ -29,7 +27,7 @@ int _strlen(const char *s)
 
 list_t *add_node_end(list_t **head, const char *str)
 {
-	list_t *new_node, *last_node = *head;
+	list_t *new_node, *last_node;
 	/*using malloc*/
 	new_node = malloc(sizeof(list_t));
 
@@ -42,14 +40,16 @@ list_t *add_node_end(list_t **head, const char *str)
 	new_node->next = NULL;
 
 	if (*head == NULL)
-	{
 		*head = new_node;
-		return (*head);
-	}
-	while (last_node->next != NULL)
-		last_node = last_node->next;
+	else
+	{
+		last_node = *head;
 
-	last_node->next = new_node;
+		while (last_node->next != NULL)
+			last_node = last_node->next;
+		
+		last_node->next = new_node;
+	}
 
 	return (*head);
 }
