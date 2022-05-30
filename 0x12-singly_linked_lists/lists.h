@@ -1,9 +1,10 @@
-#ifndef LISTS_H
-#define LISTS_H
+#ifndef _SINGLY_LINKED_LISTS
+#define _SINGLY_LINKED_LISTS
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <malloc.h>
 
 /**
  * struct list_s - singly linked lists
@@ -26,6 +27,6 @@ list_t *add_node(list_t **head, const char *str);
 int _strlen(const char *);
 list_t *add_node_end(list_t **head, const char *str);
 void free_list(list_t *head);
-void print(void) __attribute__((constructor));
+void __attribute__((constructor)) print_first(void);
 
-#ifend /*LIST_H*/
+#endif /*LIST_H*/
