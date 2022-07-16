@@ -6,6 +6,7 @@
  *
  * Return: calculated sum. Otherwise 0
  */
+
 int sum_dlistint(dlistint_t *head)
 {
 	int total = 0;

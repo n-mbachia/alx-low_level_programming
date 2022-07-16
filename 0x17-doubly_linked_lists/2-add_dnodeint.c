@@ -1,5 +1,4 @@
 #include "lists.h"
-
 /**
  * add_dnodeint - adds a new node at the beginning of a dlistint_t list
  * @head: pointer to the pointer to the 1st node in the list
