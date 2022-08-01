@@ -1,5 +1,5 @@
-#ifndef HASH_TABLES_H
-#define HASH_TABLES_H
+#ifndef HASHTABLE_H
+#define HASHTABLE_H
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -41,6 +41,10 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value);
 char *hash_table_get(const hash_table_t *ht, const char *key);
 void hash_table_print(const hash_table_t *ht);
 void hash_table_delete(hash_table_t *ht);
+
+
+/* Ordered hash table data types and prototypes */
+
 /**
  * struct shash_node_s - Node of a sorted hash table
  *
@@ -53,11 +57,11 @@ void hash_table_delete(hash_table_t *ht);
  */
 typedef struct shash_node_s
 {
-  char *key;
-  char *value;
-  struct shash_node_s *next;
-  struct shash_node_s *sprev;
-  struct shash_node_s *snext;
+	char *key;
+	char *value;
+	struct shash_node_s *next;
+	struct shash_node_s *sprev;
+	struct shash_node_s *snext;
 } shash_node_t;
 
 /**
@@ -72,17 +76,21 @@ typedef struct shash_node_s
  */
 typedef struct shash_table_s
 {
-  unsigned long int size;
-  shash_node_t **array;
-  shash_node_t *shead;
-  shash_node_t *stail;
+	unsigned long int size;
+	shash_node_t **array;
+	shash_node_t *shead;
+	shash_node_t *stail;
 } shash_table_t;
 
 shash_table_t *shash_table_create(unsigned long int size);
+shash_node_t *create_new_node(shash_table_t *ht, unsigned long int index,
+const char *key, const char *value);
+void sort_shash_node_t(shash_table_t **ht, shash_node_t **new_node);
 int shash_table_set(shash_table_t *ht, const char *key, const char *value);
 char *shash_table_get(const shash_table_t *ht, const char *key);
 void shash_table_print(const shash_table_t *ht);
 void shash_table_print_rev(const shash_table_t *ht);
+void free_shash_node_t_list(shash_node_t *head);
 void shash_table_delete(shash_table_t *ht);
 
-#endif /* HASH_TABLES_H */
+#endif
